@@ -7,6 +7,7 @@ public class HelloWorld : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         Debug.Log("Hello World");
+        //Git test commit
 	}
 	
 	// Update is called once per frame
